@@ -1,6 +1,6 @@
 # Rs-Cit Common Question 
 ## What does RSCIT stand for? -
-Rajasthan State Certificate in Information Technology.
+*Rajasthan State Certificate in Information Technology.*
 Who is the conducting body for RSCIT? - Vardhman Mahaveer Open University (VMOU).
 What is the duration of the RSCIT course? - 3 months.
 What is the passing percentage for RSCIT? - 40%.
