@@ -15,8 +15,13 @@
 #### *Starting an Application*
 #### *Copy/Paste/Rename a File or Folder*
 #### *Scan a File/ Folder with Antivirus*
-## 
-####
+## 3. MS Word
+#### *Introduction to Word Processing and MS-Word*
+#### *Working with Document*
+#### *Insert Menu*
+#### *Paragraphs, Alignment, Bullets, and Numbering*
+#### *Working with Graphics & Charts*
+#### *Working with Various Tabs and options*
 ## 
 ####
 ## 
