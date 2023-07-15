@@ -1,0 +1,148 @@
+Chapter 16.
+
+Q. 1. निम्न में से एक सीडी / डीवीडी की एक सामान्य प्रचलित क्षमता नहीं है?
+A. 630 Gb
+B. 4.7 Gb
+C. 9.4 Gb
+D. 13 Gb
+
+Which of the following is not a common feature of CD/DVD?
+A. 630 Gb
+B. 4.7 Gb
+C. 9.4 Gb
+D. 13 Gb
+
+Right Answer: D.
+
+
+Q. 2. टर्म 'hdmi' में 'hd' से क्या आशय हैं?
+A. उच्च आयाम (High Demension)
+B. विशाल डेफिनेशन (Huge Defintion)
+C. हाई डेफिनेशन (High Definition)
+D. भरी परिनियोजन (Heavy Deployment)
+
+What is meant by 'hd' in the term 'hdmi'?
+A. High Dimension
+B. Huge Definition
+C. High Definition
+D. Heavy Deployment
+
+Right Answer: C.
+
+
+Q. 3. इनमें से कौन सा वैध प्रोजेक्टर कनेक्टिविटी विकल्प नहीं है?
+A. Computer Only
+B. Inverted
+C. Duplicate
+D. Extend
+
+Which of the following is not a valid projector connectivity option?
+A. Computer Only
+B. Inverted
+C. Duplicate
+D. Extend
+
+Right Answer: B.
+
+
+Q. 4. वीजीए केबल में कितने पिन होते हैं?
+A. 11
+B. 14
+C. 15
+D. 17
+
+How many pins are there in VGA cable?
+A. 11
+B. 14
+C. 15
+D. 17
+
+Right Answer: C.
+
+Q. 5. निम्नलिखित में से किसके द्वारा हम कंप्यूटर से हार्ड कॉपी निकल सकते है?
+A. ई-मेल
+B. प्रिंटर
+C. फैक्स
+D. सॉफ्टवेयर
+
+By which of the following we can extract hard copy from computer?
+A. E-mail
+B. Printer
+C. Fax
+D. Software
+
+Right Answer: B.
+
+
+Q. 6. माइक्रोसॉफ्ट ऑफिस पिक्चर मैनेजर से क्या आशय है -
+A. मूल तस्वीर प्रबंधन सॉफ्टवेयर
+B. एक आवेदन जो स्कैन किये गए दस्तावेजों को संपादित करने में सहायता करता है
+C. एक स्केनिंग और ओसीआर आवेदन
+D. इनमें से कोई नहीं
+
+What is meant by Microsoft Office Picture Manager -
+A. Original photo management software
+B. An application that helps in editing scanned documents
+C. A scanning and OCR application
+D. none of these
+
+Right Answer: A.
+
+
+Q. 7. निम्नलिखित में से कौन सा एलसीडी प्रोजेक्टर का प्रकार हैं?
+A. Flat Panel & Laser
+B. Normal And Roof Mounted
+C. Mesh Model And Curved
+D. None Of These
+
+Which of the following is a type of LCD projector?
+A. Flat Panel & Laser
+B. Normal And Roof Mounted
+C. Mesh Model And Curved
+D. None Of These
+
+Right Answer: B.
+
+
+Q. 8. सीडी में किसी फाइल को कॉपी करने की प्रक्रिया को इस प्रकार से जाना जाता है?
+A. भंडारण
+B. प्रतिलिपि
+C. बर्निंग
+D. पेस्टिंग
+
+The process of copying a file to a CD is known as?
+A. Storage
+B. copy
+C. burning
+D. Pasting
+
+Right Answer: C.
+
+Q. 9. प्रिंट करने से पहले दस्तावेज कैसा दिखेगा, यह जानने के लिए किस कमांड का उपयोग किया जाता है?
+A. File Preview
+B. Pre- Print
+C. Print Preview
+D. Standard Preview
+
+Which command is used to know what the document will look like before printing it?
+A. File Preview
+B. Pre-print
+C. Print Preview
+D. Standard Preview
+
+Right Answer: C.
+
+
+Q. 10. Pendrive को जोड़ा जा सकता हैं?
+A. Computer के साथ
+B. Mobile के साथ
+C. Leptop के साथ
+D. All Of The Above
+
+Can Pendrive be connected?
+A. With Computer
+B. With Mobile
+C. With Leptop
+D. All Of The Above
+
+Right Answer: D.
