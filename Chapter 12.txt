@@ -1,0 +1,148 @@
+Chapter 12.
+
+Q. 1. निम्न में से किन के संयोजन से एक्सेल वर्कबुक बनता है?
+A. Workbook
+B. Worksheet
+C. Chart
+D. Worksheet And Charts
+
+Combination of which of the following forms an Excel workbook?
+A. Workbook
+B. Worksheet
+C. Chart
+D. Worksheet And Charts
+
+Right Answer: D.
+
+
+Q. 2. एक नाम बॉक्स (Name Box) से क्या आशय है?
+A. पूर्व में रही एक्टिव सेल की लोकेशन को दर्शाता है
+B. फार्मूला बार के बाएं ओर दिखाई देता है
+C. स्टेटस बार के नीचे दिखाई देता है
+D. मैंन्यू बार के नीचे दिखाई देता है
+
+What is meant by a name box?
+A. Shows the location of the active cell in the past
+B. Appears to the left of the formula bar
+C. Appears below the status bar
+D. Appears below the menu bar
+
+Right Answer: B.
+
+
+Q. 3. वर्कशीट के एक स्थान से फॉर्मेटिंग को कॉपी कर किसी दूसरे स्थान पर फॉर्मेटिंग अप्लाई करने के लिए आप किसका उपयोग करेंगे?
+A. Home > Copy Or Home > Paste
+B. Ctrl + C Or Ctrl + V
+C. एक्सेल में फॉर्मेटिंग कॉपी करने का तथा दूसरे स्थान पर लगाने का कोई तरीका नहीं है
+D. स्टैंडर्ड टूलबार पर उपस्थित फॉरमैट पेंटर बटन
+
+What would you use to copy the formatting from one place of the worksheet and apply the formatting to another location?
+A. Home > Copy Or Home > Paste
+B. Ctrl + C Or Ctrl + V
+C. There is no way to copy the formatting in Excel and move it to another location
+D. Format Painter button on the standard toolbar
+
+Right Answer: D.
+
+Q. 4. एक वर्कशीट में रो तथा कॉलम टाइटल को होल्ड करने हेतु, ताकि जब वर्कशीट को स्क्रॉल किया जाए तो वे स्क्रोल न हो इसके लिए निम्न में से क्या उपयोग में लिया जाता है?
+A. Un-freeze Command
+B. Freeze Panes Command
+C. Hold Title Command
+D. Split Command
+
+To hold row and column titles in a worksheet, so that they do not scroll when the worksheet is scrolled, which of the following is used?
+A. Un-freeze Command
+B. Freeze Panes Command
+C. Hold Title Command
+D. Split Command
+
+Right Answer: B.
+
+
+Q. 5. माइक्रोसॉफ्ट एक्सल 2010 में चयनित सेल में से एक चार्ट बनाने के लिए निम्न में से किस शॉर्टकट कुंजी का इस्तेमाल किया जाता है?
+A. F3
+B. F5
+C. F7
+D. F11
+
+Which of the following shortcut key is used to create a chart out of selected cells in Microsoft Excel 2010?
+A. F3
+B. F5
+C. F7
+D. F11
+
+Right Answer: D.
+
+
+Q. 6. एक्सेल 2003, 2007, 2010 का फाइल एक्सटैंशन क्या होता है?
+A. Xlsx, Xls, Xlsx
+B. Docx, Doc, Docx
+C. Xls, Xlsx, Xlsx
+D. Xls, Xls, Xlsx
+
+What is the file extension of Excel 2003, 2007, 2010?
+A. Xlsx, Xls, Xlsx
+B. Docx, Doc, Docx
+C. Xls, Xlsx, Xlsx
+D. Xls, Xls, Xlsx
+
+Right Answer: C.
+
+
+Q. 7. Paste Special Command आपको कॉपी और पेस्ट करने की सुविधा देता है?
+A. एक कॉपिड वैल्यू के द्वारा सलेक्शन को मल्टिप्लाई करने हेतु
+B. Cell Comments द्वारा
+C. Actual Formula के बजाय एक फार्मूला के परिणाम स्वरूप वैल्यूज द्वारा
+D. उपरोक्त में से कोई नहीं
+
+Paste Special Command allows you to copy and paste?
+A. To multiply the selection by a copied value
+B. By Cell Comments
+C. By Values ​​as a Result of a Formula Instead of an Actual Formula
+D. none of the above
+
+Right Answer: C.
+
+Q. 8. जब आप एक फार्मूला कॉपी करते हैं?
+A. एक्सेल फार्मूला की मूल प्रति मिटा देता है
+B. एक्सेल न्यूली कॉपिड फार्मूला में सेल रेफरेंस संपादन करता है
+C. एक्सेल अब्सोल्युट सेल रेफरेंस को समायोजित करता है
+D. एक्सेल रिलेटिव सेल रेफरेंस को समायोजित नहीं करता
+
+When do you copy a formula?
+A. Excel deletes the original copy of the formula
+B. Edit cell reference in Excel newly copied formula
+C. Adjust Excel Absolute Cell Reference
+D. Excel does not accommodate relative cell references
+
+Right Answer: B.
+
+
+Q. 9. माइक्रोसॉफ्ट एक्सेल 2010 का उपयोग कर निम्न में से कौनसे चार्ट के प्रकार बनाए जा सकते हैं?
+A. केवल लाइन चार्ट, पाई चार्ट
+B. केवल लाइन ग्राफ
+C. बार चार्ट, लाइन ग्राफ और पाई चार्ट
+D. बार चार्ट और लाइन ग्राफ केवल
+
+Which of the following chart types can be created using Microsoft Excel 2010?
+A. Line chart only, Pie chart
+B. Line graph only
+C. Bar chart, line graph and pie chart
+D. Bar chart and line graph only
+
+Right Answer: C.
+
+
+Q. 10. एक सूत्र बनाने के लिए आप निम्न में से किसका उपयोग कर सकते हैं?
+A. सेल वैल्यू लेकिन सेल संदर्भ का नहीं
+B. सेल संदर्भ का नहीं बल्कि सेल वैल्यू का
+C. सेल वैल्यू या सेल संदर्भों का नहीं है, हालांकि दोनों एक ही समय नहीं होते हैं
+D. सेल वैल्यू और संदर्भों में
+
+Which of the following can you use to make a formula?
+A. Cell value but not cell reference
+B. Not cell reference but cell value
+C. does not refer to cell values ​​or cell references although both do not occur at the same time
+D. In cell values ​​and references
+
+Right Answer: D.
