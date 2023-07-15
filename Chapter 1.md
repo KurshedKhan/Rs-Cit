@@ -111,7 +111,7 @@
 ##### C. Mini
 ##### D. Notebook
 
-***Right Answer: D.**
+***Right Answer: D.***
 
 
 ### Q. 9. निम्न में से कौनसा System Software का घटक हैं?
