@@ -1,0 +1,226 @@
+Chapter 4.
+
+Q. 1. निम्न में से कौनसा सर्च इंजिन नहीं हैं?
+A. Wikipedia
+B. Google
+C. Yahoo
+D. Bing
+
+Which of the following is not a search engine?
+A. Wikipedia
+B. Google
+C. Yahoo
+D. Bing
+
+Right Answer: A.
+
+
+Q. 2. एक उपयोगकर्ता को इंटरनेट तक पहुंचने से पहले निम्न में से कौन सा आवश्यक है?
+A. इंटरनेट सेवा
+B. मॉडेम
+C. वेब ब्राउजर
+D. उपरोक्त सभी
+
+Which of the following is required for a user to access the Internet?
+A. Internet service
+B. Modem
+C. web browser
+d. All of the above
+
+Right Answer: D.
+
+
+Q. 3. निम्न में से कौनसा गलत हैं?
+A. .com - Commercial
+B. .edu - Educational
+C. .net - New Trick
+D. .org - Organizations
+
+Which of the following are wrong?
+A. .com - Commercial
+B. .edu - Educational
+C. .net - New Trick
+D. .org - Organizations
+
+Right Answer: C.
+
+
+Q. 4. Isp का पूर्ण रूप क्या है?
+A. Internet Service Provider
+B. Intranet Service Provider
+C. Information Service Provide
+D. None Of The Above
+
+What is the full form of Isp?
+A. Internet Service Provider
+B. Intranet Service Provider
+C. Provide Information Service
+D. None Of The Above
+
+Right Answer: A.
+
+
+Q. 5. मॉडेम का पूरा नाम क्या होता है?
+A. Modulator-demodulator
+B. Modern Engineering
+C. A Or B
+D. None Of The Above
+
+What is the full name of Modem?
+A. Modulator-demodulator
+B. Modern Engineering
+C. A Or B
+D. None Of The Above
+
+Right Answer: A.
+
+Q. 6. Url का पूरा नाम क्या होता है?
+A. Uniform Resource Locator
+B. Universal Resource Locator
+C. A Or B
+D. None Of The Above
+
+What is the full form of Url?
+A. Uniform Resource Locator
+B. Universal Resource Locator
+C. A Or B
+D. None Of The Above
+
+Right Answer: A.
+
+
+Q. 7. Www का पूर्ण रूप क्या है?
+A. वर्ल्ड विजडम वेब
+B. वर्ल्ड वाइड वेब
+C. वर्ल्ड वेब ऑफ विजडम
+D. वाइड वेब ऑफ वर्ल्ड
+
+What is the full form of www?
+A. World Wisdom Web
+B. World Wide Web
+C. World Web of Wisdom
+D. Wide web of world
+
+Right Answer: B.
+
+
+Q. 8. वेब ब्राउज़र क्या है?
+A. सिस्टम सॉफ्टवेयर
+B. एप्लीकेशन सॉफ्टवेयर
+C. ए और बी दोनों
+D. उपरोक्त में से कोई भी नहीं
+
+What is a web browser?
+A. System software
+B. Application software
+C. Both A and B
+D. none of the above
+
+Right Answer: B.
+
+Q. 9. इनमें से कौन सा एक ईमेल क्लाइंट है?
+A. G-mail
+B. Myntra
+C. Router
+D. Top Level Domain
+
+Which of the following is an email client?
+A. G-mail
+B. Myntra
+C. Router
+D. Top Level Domain
+
+Right Answer: A.
+
+
+Q. 10. Dns का पूर्ण रूप है?
+A. डोमेन नेम सिस्टम
+B. डिजिटल नंबर सिस्टम
+C. ए और बी दोनों
+D. उपयुक्त में से कोई भी नहीं
+
+What is the full form of Dns?
+A. Domain Name System
+B. Digital Number System
+C. Both A and B
+D. none of the above
+
+Right Answer: A.
+
+
+Q. 11. इंटरनेट का मुख्य उपयोग है?
+A. संचार
+B. शिक्षा
+C. वित्तीय लेनदेन
+D. उपयुक्त सभी
+
+The main use of internet is?
+A. Communication
+B. Education
+C. Financial Transactions
+D. Suitable all
+
+Right Answer: D.
+
+Q. 12. निम्न में से कौनसा इंटरनेट कनेक्टिविटी का प्रकार नहीं हैं?
+A. Dial Up
+B. Broadband
+C. Wi-fi
+D. Dial Down
+
+Which of the following is not a type of Internet connectivity?
+A. Dial Up
+B. Broadband
+C. Wi-fi
+D. Dial Down
+
+Right Answer: D.
+
+
+Q. 13. वक्तव्य 1: इंटरनेट ग्लोबल वर्ल्ड वाइड वेब है?
+वक्तव्य 2: इंट्रानेट एक कंपनी का निजी इंटरनेट है जिसे सिर्फ कंपनी के अंदर इस्तेमाल किया जा सकता है
+निम्नलिखित से उपयुक्त विकल्प चुने -
+A. वक्तव्य 1 सही है और वक्तव्य 2 गलत है
+B. वक्तव्य 1 गलत है और वक्तव्य 2 सही है
+C. दोनों वक्तव्य 1 और 2 गलत हैं
+D. दोनों वक्तव्य 1 और 2 सही हैं
+
+Statement 1: Internet is Global World Wide Web?
+Statement 2: Intranet is a company's private internet which can be used only inside the company
+Choose the appropriate option from the following -
+A. Statement 1 is true and Statement 2 is false
+B. Statement 1 is false and Statement 2 is correct
+C. Both statements 1 and 2 are wrong
+D. Both statements 1 and 2 are correct
+
+Right Answer: D.
+
+
+Q. 14. एक सर्च इंजन वास्तविक समय में निम्नलिखित में से कौन कौनसी प्रक्रिया को संभालता है?
+A. Web Crawling / Web Spider
+B. Indexing
+C. Searching
+D. All Of The Above
+
+Which of the following process is handled by a search engine in real time?
+A. Web Crawling / Web Spider
+B. Indexing
+C. Searching
+D. All Of The Above
+
+Right Answer: D.
+
+
+Q. 15. निम्न में से कौनसा एक सर्च इंजन का उदाहरण है?
+A. पेटीएम
+B. गूगल
+C. फिल्पकार्ट
+D. ऊपर से कोई नहीं
+
+Which of the following is an example of a search engine?
+A. Paytm
+B. Google
+C. Flipkart
+D. none from above
+
+Right Answer: B.
