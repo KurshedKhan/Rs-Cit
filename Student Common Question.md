@@ -1,6 +1,6 @@
 # Rs-Cit Common Question 
-## 1.What does RSCIT stand for?
-#### Rajasthan State Certificate in Information Technology.
+### 1.What does RSCIT stand for?
+##### Rajasthan State Certificate in Information Technology.
 ## 2.Who is the conducting body for RSCIT? 
 #### Vardhman Mahaveer Open University (VMOU).
 ## 3.What is the duration of the RSCIT course?
