@@ -1,4 +1,4 @@
-##Chapter 1. 
+Chapter 1. 
 Q. 1. निम्नलिखित में से सबसे तेज कंप्यूटर कौनसा है?
 A. मेनफ्रेम
 B. माइक्रो कंप्यूटर
@@ -11,7 +11,7 @@ B. Microcomputer
 C. Workstation
 D. supercomputer
 
-##Right Answer: D.
+Right Answer: D.
 
 
 Q. 2. निम्न में से कौनसा एंड यूजर प्रोग्राम का उदाहरण है?
