@@ -1,0 +1,148 @@
+Chapter 14.
+
+Q. 1. निम्नलिखित में से कौन सा साइबर खतरा नहीं है?
+A. वायरस
+B. ट्रोजन हॉर्स
+C. ई कॉमर्स
+D. डिनायल ऑफ सर्विसेज
+
+Which of the following is not a cyber threat?
+A. Virus
+B. Trojan Horse
+C. e commerce
+D. Denial of Services
+
+Right Answer: C.
+
+
+Q. 2. Https में उल्लेखित S का क्या मतलब होता है?
+A. सिक्योर
+B. सर्वर
+C. स्टैटिक
+D. सिस्टम
+
+What is the meaning of S mentioned in Https?
+A. Secure
+B. Server
+C. Static
+D. System
+
+Right Answer: A.
+
+Q. 3. निम्न में से कौन सा मेलिंग शिष्टाचार के रूप में माना जाता है?
+A. All Caps का अति प्रयोग
+B. उच्च प्राथमिकता का अधिक उपयोग
+C. रिप्लाई ऑल (Reply All) का अधिक प्रयोग
+D. संक्षिप्त और उच्च विषय
+
+Which of the following is considered as mailing etiquette?
+A. Overuse of All Caps
+B. More use of higher priority
+C. More use of Reply All
+D. Short and High Topics
+
+Right Answer: D.
+
+
+Q. 4. सूचना सुरक्षा प्रबंधन प्रणाली के लिए निम्न में से कौन सी एक आईएसओ मानक है?
+A. Iso 9000
+B. Iso 14000
+C. Iso 22000
+D. Iso 27001
+
+Which one of the following is an ISO standard for Information Security Management System?
+A. ISO 9000
+B. ISO 14000
+C. ISO 22000
+D. ISO 27001
+
+Right Answer: D.
+
+
+Q. 5. भारतीय आईटी अधिनियम, 2000 के नियम किस क्षेत्र को नियंत्रित करने के लिए तैयार किए गए हैं?
+A. आय कर
+B. औद्योगिक प्रौद्योगिकी
+C. सूचना प्रौद्योगिकी
+D. इनसाइडर ट्रेडिंग
+
+The rules of the Indian IT Act, 2000 have been framed to govern which sector?
+A. Income Tax
+B. Industrial Technology
+C. Information Technology
+D. Insider Trading
+
+Right Answer: C.
+
+
+Q. 6. एक कंप्यूटर वायरस जो पहचान को रोकने के प्रयास में एंटीवायरस प्रोग्राम पर सक्रिय रूप से हमला करता है, क्या कहलाता है?
+A. वर्म
+B. रेट्रोवायरस
+C. टार्जन हॉर्स
+D. घोस्ट वायरस
+
+A computer virus that actively attacks antivirus programs in an attempt to prevent detection is called?
+A. Worm
+B. retrovirus
+C. Tarzan Horse
+D. Ghost virus
+
+Right Answer: B.
+
+
+Q. 7. क्यों कोई आपके कंप्यूटर में बिना अनुमति प्रवेश कर सकता है?
+A. उन्हें आप पसंद नहीं
+B. अपराध करने के लिए
+C. अश्लील, दुर्भावनापूर्ण कार्यक्रमों आदि को वितरित करने के लिए
+D. उपरोक्त सभी
+
+Why can someone access your computer without permission?
+A. They don't like you
+B. to commit a crime
+C. To distribute pornographic, malicious programs etc.
+d. All of the above
+
+Right Answer: D.
+
+Q. 8. यदि आप को एक मेल प्राप्त होता है जिसमें आपसे आपके यूजर नेम व पासवर्ड की मांग की जाती है तो ऐसी स्थिति में आप क्या करेंगे?
+A. उन्हें अपने ईमेल प्रदाता के माध्यम से फिशिंग स्पैम के रूप में रिपोर्ट करेंगे
+B. संदेश को हटाएंगे
+C. संदेश को अपने ईमेल और पासवर्ड के साथ उत्तर देंगे
+D. इनमें से कोई भी नहीं
+
+What will you do if you receive a mail asking for your username and password?
+A. Will report them as phishing spam through your email provider
+B. Will delete the message
+C. Will reply to message with your email and password
+D. none of these
+
+Right Answer: A.
+
+
+Q. 9. निम्नलिखित में से कौन सा कथन एक मजबूत पासवर्ड के सही है?
+A. दोनों अपरकेस और लोवर केस अक्षरों में
+B. एक शब्द जो याद रखना आसान होता है जैसे कि पालतू जानवर का नाम
+C. नाम जिसमें कम से कम 8 वर्ण और अक्षरों, संख्याओं और वर्ण का संयोजन हो
+D. आप का पूरा नाम
+
+Which of the following statements are correct about a strong password?
+A. in both uppercase and lowercase letters
+B. A word that is easy to remember such as the name of a pet
+C. Name having at least 8 characters and combination of letters, numbers and characters
+D. Your full name
+
+Right Answer: C.
+
+
+Q. 10. निम्न में से कौन सा असली सुरक्षा और प्राइवेसी रिस्क का उदाहरण नहीं है?
+A. हैकर
+B. वायरस
+C. स्पेम
+D. आईडेंटिटी
+
+Which of the following is not an example of real security and privacy risk?
+A. hacker
+B. Virus
+C. Spam
+D. Identity
+
+Right Answer: A
