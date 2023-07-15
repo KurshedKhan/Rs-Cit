@@ -1,0 +1,147 @@
+Chapter 13.
+
+Q. 1. पावर पॉइंट शो में निम्न में से कौन सा फाइल फॉरमैट ऐड किया जा सकता है?
+A. .jpg
+B. .gif
+C. .wav
+D. उपरोक्त सभी
+
+Which of the following file formats can be added in Power Point Show?
+A. .jpg
+B. .gif
+C. .wav
+D. All of the above
+
+Right Answer: D.
+
+
+Q. 2. पावर पॉइंट प्रेजेंटेशन बहुतायत से उपयोगी है?
+A. टीचर के लिए नोट्स आउटलाइन की तरह
+B. स्टूडेंट के लिए प्रोजेक्ट प्रेजेंटेशन की तरह
+C. प्लानिंग की सूचना के संचार की तरह
+D. उपयुक्त सभी
+
+Power point presentation is very useful?
+A. Notes for teacher as outline
+B. Like a project presentation for the student
+C. Like the communication of planning information
+D. Suitable all
+
+Right Answer: D.
+
+
+Q. 3. एक स्लाइड शो में स्लाइड्स चेंज होने पर डिस्प्ले के लिए एप्लाइड इफ़ेक्ट क्या कहलाता है?
+A. स्लाइड एनीमेशन
+B. कस्टम एनिमेशन
+C. कस्टम ट्रांजिशन
+D. स्लाइड ट्रांजिशन
+
+What is the effect applied to display when slides are changed in a slide show called?
+A. slide animation
+B. Custom Animations
+C. Custom Transitions
+D. slide transition
+
+Right Answer: D.
+
+Q. 4. एक प्रेजेंटेशन के स्लाइड शो को स्टार्ट करने के लिए निम्न में से किसका उपयोग किया जायेगा?
+A. F5 को दबाना है
+B. स्लाइड शो मेनू से View Show ऑप्शन को चुनना है
+C. स्लाइड शो मेनू से Rehearse Timing को चुनना है
+D. A और B दोनों
+
+Which of the following will be used to start the slide show of a presentation?
+A. F5 is to be pressed
+B. Select the View Show option from the slide show menu
+C. Select Rehearse Timing from the slide show menu
+D. Both A and B
+
+Right Answer: D.
+
+Q. 5. मोशन पथ से क्या आशय है?
+A. Animation Entrance Effect का एक प्रकार
+B. स्लाइड को बढ़ाने का एक तरीका
+C. एक स्लाइड पर आइटम को मूव करने की एक विधि
+D. उपरोक्त सभी
+
+What is meant by motion path?
+A. A Type of Animation Entrance Effect
+B. A way to enlarge the slide
+C. A method of moving an item on a slide
+d. All of the above
+
+Right Answer: C.
+
+
+Q. 6. एक नई प्रेजेंटेशन किससे माध्यम से बनाया जा सकता है?
+A. ब्लैंक प्रेजेंटेशन से
+B. मौजूदा या पूर्व में उपलब्ध प्रेजेंटेशन से
+C. डिजाइन टेंप्लेट से
+D. उपरोक्त सभी
+
+Through which medium a new presentation can be made?
+A. From a blank presentation
+B. Present or previously available presentation
+C. From Design Template
+d. All of the above
+
+Right Answer: D.
+
+
+Q. 7. प्रेजेंटेशन में विद्यमान सभी स्लाइड का एक जैसा प्रदर्शन चाहने के लिए आप निम्न में से क्या उपयोग करेंगे?
+A. स्लाइड लेआउट विकल्प
+B. स्लाइड ऑप्शन ऐड करना
+C. आउटलाइन व्यू
+D. प्रेजेंटेशन डिजाइन टेमपलेट
+
+Which of the following would you use to get the same display for all the slides in the presentation?
+A. Slide Layout Options
+B. Adding Slide Option
+C. Outline View
+D. Presentation Design Template
+
+Right Answer: D.
+
+Q. 8. एक नई प्रेजेंटेशन बनाने के लिए निम्न में से क्या नहीं किया जा सकता?
+A. स्टैंडर्ड टूलबार पर न्यू बटन पर क्लिक करना
+B. File, New पर क्लिक
+C. File, Open पर क्लिक
+D. Ctrl + N प्रेस करना
+
+Which of the following cannot be done to create a new presentation?
+A. Clicking on the New button on the Standard toolbar
+B. Click on File, New
+C. Click on File, Open
+D. Pressing Ctrl + N
+
+Right Answer: C.
+
+
+Q. 9. निम्न में से किस टैब की सहायता से हम पिक्चर, टेक्स्ट बॉक्स, चार्ट इत्यादि जोड़ सकते हैं?
+A. File
+B. Edit
+C. Insert
+D. View
+
+With the help of which of the following tab we can add picture, text box, chart etc.?
+A. File
+B. Edit
+C. Insert
+D. View
+
+Right Answer: C.
+
+
+Q. 10. पावर पॉइंट में पहले से ही इंसर्ट इमेज को एडिट करने पर क्या घटित होता है?
+A. स्त्रोत फाइल जो पहले से इंसर्ट की हुई थी, चेंज नहीं होती
+B. स्त्रोत फाइल जो पहले से इंसर्ट की हुई थी, चेंज होती है
+C. जब आप प्रेजेंटेशन को सेव करते हैं स्त्रोत फाइल चेंज हो जाती है
+D. उपरोक्त में से कोई नहीं
+
+What happens when editing an already inserted image in Power Point?
+A. The source file which was already inserted is not changed
+B. The source file which was already inserted is changed
+C. The source file gets changed when you save the presentation
+D. none of the above
+
+Right Answer: A.
