@@ -5,13 +5,13 @@
 ##### C. वर्कस्टेशन
 ##### D. सुपर कंप्यूटर
 
-Which of the following is the fastest computer?
-A. Mainframe
-B. Microcomputer
-C. Workstation
-D. supercomputer
+### Which of the following is the fastest computer?
+##### A. Mainframe
+##### B. Microcomputer
+##### C. Workstation
+##### D. supercomputer
 
-Right Answer: D.
+***Right Answer: D.***
 
 
 Q. 2. निम्न में से कौनसा एंड यूजर प्रोग्राम का उदाहरण है?
