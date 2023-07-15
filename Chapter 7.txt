@@ -1,0 +1,223 @@
+Chapter 7.
+
+Q. 1. निम्न में से कौन सा एक राजस्थान संपर्क का चरण नहीं है?
+A. रजिस्ट्रेशन
+B. मॉडरेशन
+C. स्क्रूटिनाइज़ेशन
+D. एलोकेशन
+
+Which one of the following is not a phase of Rajasthan Sampark?
+A. Registration
+B. Moderation
+C. Scrutinization
+D. Allocation
+
+Right Answer: C.
+
+
+Q. 2. Rajasthan Sampark कब शुरू किया गया था?
+A. June 2014
+B. July 2015
+C. Jan 2014
+D. Dec 2014
+
+When was the Rajasthan Sampark started?
+A. June 2014
+B. July 2015
+C. Jan 2014
+D. Dec 2014
+
+Right Answer: A.
+
+
+Q. 3. बेरोजगारों को पंजीकृत करने के लिए Brsy ऋण राशि के तहत दिए जाने वाली ब्याज दर क्या है?
+A. 7%
+B. 8%
+C. 5%
+D. 4%
+
+What is the interest rate offered under Brsy loan amount to register unemployed?
+A. 7%
+B. 8%
+C. 5%
+D. 4%
+
+Right Answer: D.
+
+
+Q. 4. B2c के संबंध में सही वाक्य कौनसा हैं?
+A. एयरटेल, आईडिया, वोडाफोन, के बिलों का भुगतान
+B. Lic Premium भुगतान
+C. Amazon Online Market
+D. All Of The Above
+
+Which is the correct sentence regarding B2c?
+A. Pay bills for Airtel, Idea, Vodafone,
+B. Lic Premium payment
+C. Amazon Online Market
+D. All Of The Above
+
+Right Answer: D.
+
+Q. 5. E-pds प्रणाली के संदर्भ में Bpl का पूरा रूप क्या है?
+A. बिलो पावर्टी लाइन
+B. ब्रॉडबैंड ऑनलाइन पावर
+C. ब्रिटिश फिजिकल लैबोरेट्री
+D. A और C
+
+What is the full form of BPL with reference to E-pds system?
+A. Below Poverty Line
+B. Broadband Online Power
+C. British Physical Laboratory
+D. A and C
+
+Right Answer: A.
+
+
+Q. 6. E-pds के संदर्भ में Msp का पूरा रूप क्या है?
+A. मिनिमम सपोर्ट प्राइस
+B. मैक्सिमम सेलिंग प्राइस
+C. A Or B दोनों
+D. उपरोक्त में से कोई नहीं
+
+What is the full form of MSP in the context of E-pds?
+A. Minimum Support Price
+B. Maximum Selling Price
+C. Both A or B
+D. none of the above
+
+Right Answer: A.
+
+
+Q. 7. निम्नलिखित में से कौन सा E-governance का प्रकार हैं?
+A. G2g
+B. G2e
+C. G2c
+D. A, B, C,
+
+Which of the following is a type of E-governance?
+A. G2g
+B. G2e
+C. G2c
+D. A, B, C,
+
+Right Answer: D.
+
+
+Q. 8. आधार कार्ड संख्या में कितने अंक शामिल होते हैं?
+A. 8
+B. 10
+C. 12
+D. 16
+
+How many digits are included in the Aadhar card number?
+A. 8
+B. 10
+C. 12
+D. 16
+
+Right Answer: C.
+
+
+Q. 9. E-pds प्रणाली के संदर्भ में Fps का पूरा रूप क्या है?
+A. फाइनेंसियल प्लानिंग सिस्टम
+B. फर्स्ट प्राइज स्किम
+C. फेयर प्राइस शॉप
+D. A Or C दोनों
+
+What is the full form of FPS with reference to E-pds system?
+A. Financial Planning System
+B. First Prize Scheme
+C. Fair Price Shop
+D. A or C both
+
+Right Answer: C.
+
+
+Q. 10. 'भामाशाह रोजगार सर्जन योजना' के तहत ऋण चुकता करने की अवधि कितनी होती है?
+A. 3 वर्ष
+B. 2.5 वर्ष
+C. 5 वर्ष
+D. उपरोक्त में से कोई नहीं
+
+What is the loan repayment period under 'Bhamashah Rozgar Sarjan Yojana'?
+A. 3 years
+B. 2.5 years
+C. 5 years
+D. none of the above
+
+Right Answer: C.
+
+Q. 11. भामाशाह योजना के संदर्भ में Dbt का पूरा रूप क्या होता है?
+A. डायरेक्ट बेनिफिट ट्रांसफर
+B. डिपार्टमेंट ऑफ बायोटेक्नोलॉजी
+C. डेटाबेस ट्रांसफर
+D. उपरोक्त में से कोई नहीं
+
+What is the full form of Dbt with reference to Bhamashah Yojana?
+A. Direct Benefit Transfer
+B. Department of Biotechnology
+C. Database Transfer
+D. none of the above
+
+Right Answer: A.
+
+
+Q. 12. सामान्य बीमारी के तहत Bsby के तहत बीमा राशि कितनी होती है?
+A. 40000/-
+B. 50000/-
+C. 10000/-
+D. 30000/-
+
+What is the sum insured under Bsby under general illness?
+A. 40000/-
+B. 50000/-
+C. 10000/-
+D. 30000/-
+
+Right Answer: D.
+
+
+Q. 13. Brsy के तहत कौन से बैंक ऋण दे सकते हैं?
+A. राष्ट्रीयकृत बैंक
+B. सहकारी बैंक
+C. क्षेत्रीय ग्रामीण बैंक
+D. उपरोक्त सभी
+
+Which banks can give loan under Brsy?
+A. Nationalized Bank
+B. Co-operative Banks
+C. Regional Rural Banks
+D. All of the above
+
+Right Answer: D.
+
+
+Q. 14. भामाशाह योजना कब शुरू हुई थी?
+A. 2018
+B. 2010
+C. 2008
+D. 2004
+
+When was the Bhamashah scheme started?
+A. 2018
+B. 2010
+C. 2008
+D. 2004
+
+Right Answer: C.
+
+
+Q. 15. E-mitra / Csc पर राशन कार्ड के लिए फॉर्म कहाँ से डाउनलोड कर सकते हैं?
+A. Http://www.cssc.com
+B. Http://www.emitra.gov.in/
+C. Http://www.e-mitra.gov.in/
+D. None Of The Above
+
+Where can I download the form for ration card on E-mitra / Csc?
+A. http://www.cssc.com
+B. http://www.emitra.gov.in/
+C. http://www.e-mitra.gov.in/
+D. None Of The Above
+
+Right Answer: B.
