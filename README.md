@@ -1,2 +1,4 @@
-# Rs-Cit
-Please read carefully.....!,because of all question are important for us.
+# Shortcut Keys of Computer Science
+
+# 1.कॉपी करना 
+    
