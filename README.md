@@ -3,7 +3,7 @@
 2. : => Colon
 3. "" => Double Quotes / Double Quotation Mark
 4. '' => Single Quotes / Single Quotation Mark
-5. > => Greater than  / Angle bracket
+5. (>) => Greater than  / Angle bracket
 6. < => Less than / Angle bracket
 7. . => Dot / Full Stop
 8. , => Comma
