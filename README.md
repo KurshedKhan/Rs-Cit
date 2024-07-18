@@ -18,12 +18,12 @@
 17. ( => Open parantheses / Bracket
 18. ) => Close Parantheses / Bracket
 19. _ => UnderScore
-20. - => Dash / Hyphen
+20. (-) => Dash / Hyphen
 21. = => equals to
-22. + => Addition / Plus
-23. - => Subtraction / Minus
-24. * => Multiplication / astrisk / Star
-25. / => Division
+22. (+) => Addition / Plus
+23. (-) => Subtraction / Minus
+24. (*) => Multiplication / astrisk / Star
+25. (/) => Division
 26. & => And
 27. ^ => caret / Power / Exponential / CircumFlex
 28. % => Percentage
