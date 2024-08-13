@@ -15,9 +15,7 @@
                         ==> In Microsoft Word, the keyboard shortcut Ctrl + Shift + F changes the font.
 
 #### 5. Ctrl + Shift + P ==>  Change the font size
-                        ==> 2
-
-In older versions of MS Word (2000, 2003, etc) using the keyboard shortcut Ctrl+Shift+P would focus on (highlight) the font size box in the toolbar allowing me to change the font size.
+                        ==> In older versions of MS Word (2000, 2003, etc) using the keyboard shortcut Ctrl+Shift+P would focus on (highlight) the font size box in the toolbar allowing me to change the font size.
 
 #### 6. Ctrl + =  ==>  SubScript
                   ==> Type very small letters just below the line of text.
