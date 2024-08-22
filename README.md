@@ -1,8 +1,8 @@
 # Keyboard
-1. upper keys
-2. lower keys
+1. upper symbols 
+2. lower symbols 
 
-Note : upper keys ke liye shift press kare.
+Note : upper symbols ke liye shift key press kare.
 
 1. ; => Semicolon
 2. : => Colon
