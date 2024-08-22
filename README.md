@@ -1,4 +1,8 @@
 # Keyboard
+1. upper keys
+2. lower keys
+Note : upper keys ke liye shift press kare.
+
 1. ; => Semicolon
 2. : => Colon
 3. "" => Double Quotes / Double Quotation Mark
